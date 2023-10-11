@@ -1,5 +1,6 @@
 # DaylightTideFinder
 ![image](https://github.com/3d65/DaylightTideFinder/assets/65659131/d91f0e98-90a5-4938-9234-da0b7714b69c)
+
 A simple application that finds scrapes the web to find low tides occurring during daylight hours.
 
 # Requirements
